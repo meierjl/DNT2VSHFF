@@ -140,8 +140,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel HFF
 shortLabel HFF
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 113,35,124
+altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -154,8 +154,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel HFF
 shortLabel HFF
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 113,35,124
+altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
