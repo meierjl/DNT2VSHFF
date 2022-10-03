@@ -251,8 +251,8 @@ parent Sample5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/UL87/Sample5-dedup-FW-FJ616285.1.bw
-longLabel HFF Flavo 5'
-shortLabel HFF Flavo 5'
+longLabel HFF Flavo 5
+shortLabel HFF Flavo 5
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -265,8 +265,8 @@ parent Sample5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/UL87/Sample5-dedup-RV-FJ616285.1.bw
-longLabel HFF Flavo 5'
-shortLabel HFF Flavo 5'
+longLabel HFF Flavo 5
+shortLabel HFF Flavo 5
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -289,8 +289,8 @@ parent Sample3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/UL87/Sample3-dedup-FW-FJ616285.1.bw
-longLabel HFF 5’
-shortLabel HFF 5’
+longLabel HFF 5
+shortLabel HFF 5
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -303,8 +303,8 @@ parent Sample3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/UL87/Sample3-dedup-RV-FJ616285.1.bw
-longLabel HFF 5’
-shortLabel HFF 5’
+longLabel HFF 5
+shortLabel HFF 5
 negateValues on
 color 113,35,124
 altColor 113,35,124
