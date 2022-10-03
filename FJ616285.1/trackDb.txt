@@ -238,16 +238,16 @@ maxHeightPixels 128:128:16
 	
 #############	
 
-track UL87HF-Flavo-5’
+track Sample5
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel UL87HF Flavo 5’
-longLabel UL87HF Flavo 5’
+shortLabel Sample5
+longLabel Sample5
 	 
-track UL87HF-Flavo-5’_FW
-parent UL87HF-Flavo-5’
+track Sample5_FW
+parent Sample5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/UL87/Sample5-dedup-FW-FJ616285.1.bw
@@ -260,8 +260,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track UL87HF-Flavo-5’_RV
-parent UL87HF-Flavo-5’
+track Sample5_RV
+parent Sample5
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/UL87/Sample5-dedup-RV-FJ616285.1.bw
@@ -276,16 +276,16 @@ maxHeightPixels 128:128:16
 
 #############	  
 	 
-track UL87HF 5’
+track Sample3
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel UL87HF 5’
-longLabel UL87HF 5’
+shortLabel Sample3
+longLabel Sample3
 	 
-track UL87HF-5’_FW
-parent UL87HF 5’
+track Sample3_FW
+parent Sample3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/UL87/Sample3-dedup-FW-FJ616285.1.bw
@@ -298,8 +298,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track UL87HF-5’_RV
-parent UL87HF 5’
+track Sample3_RV
+parent Sample3
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/UL87/Sample3-dedup-RV-FJ616285.1.bw
