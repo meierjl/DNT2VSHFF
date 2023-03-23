@@ -318,8 +318,8 @@ track NT2_Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/20220610_CMV_Proseq_NT2_Flavo.bw
-longLabel Test NT2 Flavo
-shortLabel Test NT2 Flavo
+longLabel Test DNT2 Flavo
+shortLabel Test DNT2 Flavo
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -333,15 +333,17 @@ track NT2_No_Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/20220610_CMV_Proseq_NT2_NoFlavo.bw
-longLabel Test NT2 
-shortLabel Test NT2 
+longLabel Test DNT2 
+shortLabel Test DNT2 
 negateValues off
 color 113,35,124
 altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
+
 ##########
+
 track HFF_Flavo
 type bigWig 0 1000
 visibility full
