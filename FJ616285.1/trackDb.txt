@@ -330,8 +330,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel Test HFF Flavo
 shortLabel Test HFF Flavo
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -344,8 +344,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel Test HFF Flavo
 shortLabel Test HFF Flavo
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -368,8 +368,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel Test HFF 
 shortLabel Test HFF 
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -382,8 +382,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel Test HFF 
 shortLabel Test HFF 
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -406,8 +406,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel Test DNT2 Flavo
 shortLabel Test DNT2 Flavo
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -420,8 +420,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel Test DNT2 Flavo
 shortLabel Test DNT2 Flavo
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -444,8 +444,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel Test DNT2
 shortLabel Test DNT2
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -458,8 +458,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF
 longLabel Test DNT2 
 shortLabel Test DNT2
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 34,34,255
+altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
