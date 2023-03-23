@@ -318,8 +318,8 @@ track NT2_Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/20220610_CMV_Proseq_NT2_Flavo.bw
-longLabel NT2 Flavo
-shortLabel NT2 Flavo
+longLabel Test NT2 Flavo
+shortLabel Test NT2 Flavo
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -333,8 +333,8 @@ track NT2_No_Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/20220610_CMV_Proseq_NT2_NoFlavo.bw
-longLabel NT2 
-shortLabel NT2 
+longLabel Test NT2 
+shortLabel Test NT2 
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -346,8 +346,8 @@ track HFF_Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/GSM5130197_Exp2_72h_UL87HF_HFF_Flavo.bw
-longLabel HFF Flavo
-shortLabel HFF Flavo
+longLabel Test HFF Flavo
+shortLabel Test HFF Flavo
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -361,8 +361,8 @@ track HFF_No_Flavo
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/GSM5130197_Exp2_72h_UL87HF_HFF_NoFlavo.bw 
-longLabel HFF No Flavo
-shortLabel HFF No Flavo
+longLabel Test HFF 
+shortLabel Test HFF
 negateValues off
 color 113,35,124
 altColor 113,35,124
