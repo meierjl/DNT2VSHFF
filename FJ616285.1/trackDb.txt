@@ -175,8 +175,8 @@ parent 72h-No-PFA-Flavo 5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-Flavo-dedup-FW-5prime-Towne.bw
-longLabel DNT2 Flavo 5’
-shortLabel DNT2 Flavo 5’
+longLabel DNT2 Flavo 5
+shortLabel DNT2 Flavo 5
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -189,8 +189,8 @@ parent 72h-No-PFA-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-Flavo-dedup-RV-5prime-Towne.bw
-longLabel DNT2 Flavo 5’
-shortLabel DNT2 Flavo 5’
+longLabel DNT2 Flavo 5
+shortLabel DNT2 Flavo 5
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -213,8 +213,8 @@ parent 72h-No-PFA-No-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-No-Flavo-dedup-FW-5prime-Towne.bw
-longLabel DNT2 5’
-shortLabel DNT2 5’
+longLabel DNT2 5
+shortLabel DNT2 5
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -227,8 +227,8 @@ parent 72h-No-PFA-No-Flavo-5’
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/DNT2-PRO-Seq/72h-No-PFA-No-Flavo-dedup-RV-5prime-Towne.bw
-longLabel DNT2 5’
-shortLabel DNT2 5’
+longLabel DNT2 5
+shortLabel DNT2 5
 negateValues on
 color 113,35,124
 altColor 113,35,124
