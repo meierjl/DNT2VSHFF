@@ -313,4 +313,156 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############	
+ 	 
+track Test-HFF-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Test HFF Flavo
+longLabel Test HFF Flavo
+	 
+track Test-HFF-Flavo_FW
+parent Test-HFF-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/GSM5130197_Exp2_72h_UL87HF_HFF_Flavo_for.bw 
+longLabel Test HFF Flavo
+shortLabel Test HFF Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Test-HFF-Flavo_RV
+parent Test-HFF-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/GSM5130197_Exp2_72h_UL87HF_HFF_Flavo_rev.bw
+longLabel Test HFF Flavo
+shortLabel Test HFF Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
+	 
+track Test-HFF
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Test HFF 
+longLabel Test HFF 
+	 
+track Test-HFF_FW
+parent Test-HFF
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/GSM5130197_Exp2_72h_UL87HF_HFF_NoFlavo_for.bw
+longLabel Test HFF 
+shortLabel Test HFF 
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Test-HFF_RV
+parent Test-HFF
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/GSM5130197_Exp2_72h_UL87HF_HFF_NoFlavo_rev.bw
+longLabel Test HFF 
+shortLabel Test HFF 
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
+	 
+track Test-DNT2-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Test DNT2 Flavo
+longLabel Test DNT2 Flavo
+	 
+track Test-DNT2-Flavo_FW
+parent Test-DNT2-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/20220610_CMV_Proseq_NT2_Flavo_for.bw
+longLabel Test DNT2 Flavo
+shortLabel Test DNT2 Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Test-DNT2-Flavo_RV
+parent Test-DNT2-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/20220610_CMV_Proseq_NT2_Flavo_rev.bw
+longLabel Test DNT2 Flavo
+shortLabel Test DNT2 Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
+	 
+track Test-DNT2
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Test DNT2
+longLabel Test DNT2
+	 
+track Test-DNT2_FW
+parent Test-DNT2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/20220610_CMV_Proseq_NT2_NoFlavo_for.bw
+longLabel Test DNT2
+shortLabel Test DNT2
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Test-DNT2_RV
+parent Test-DNT2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/Test/20220610_CMV_Proseq_NT2_NoFlavo_rev.bw
+longLabel Test DNT2 
+shortLabel Test DNT2
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
 
