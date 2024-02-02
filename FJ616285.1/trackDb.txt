@@ -488,7 +488,7 @@ autoScale on
 maxHeightPixels 128:128:16
 	 
 track 3-RNA_RV
-parent 3 RNA
+parent 3-RNA
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/DNT2-PRO-Seq/WT-Rep1-virus-reverse.bw
