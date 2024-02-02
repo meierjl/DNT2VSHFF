@@ -463,6 +463,43 @@ altColor 34,34,255
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
+#############
 
-#############	
+track 3-RNA
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 3 RNA
+longLabel 3 RNA
+	 
+track 3-RNA_FW
+parent 3-RNA
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/DNT2-PRO-Seq/WT-Rep1-virus-forward.bw
+longLabel 3 RNA
+shortLabel 3 RNA
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 3-RNA_RV
+parent 3 RNA
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/DNT2VSHFF/master/FJ616285.1/DNT2-PRO-Seq/WT-Rep1-virus-reverse.bw
+longLabel 3 RNA
+shortLabel 3 RNA
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
 
